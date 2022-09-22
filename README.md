@@ -9,4 +9,8 @@ Can we predict product sales for a Grocery Store Chain?
 ## I created preprocessors for machine learning models. This is necessary for the data to be interpreted by a computer. Two models were then used, so I could choose the better of the two, as it is always better to have multiple options.
 
 ![Screen Shot 2022-09-22 at 1 08 44 PM](https://user-images.githubusercontent.com/109368648/191831257-0d401868-96cb-4796-a0ad-27d32fa6847d.png)
+Using visualization like the one above, I was able to see patterns in the data
+
+And using a heatmap, I was able to visualize any correlations that existed within this data set
+<img width="465" alt="Screen Shot 2022-09-22 at 1 12 25 PM" src="https://user-images.githubusercontent.com/109368648/191831863-647e00ce-b07f-4ff6-8657-9117ffd4da54.png">
 
